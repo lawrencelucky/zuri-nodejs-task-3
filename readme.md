@@ -18,9 +18,11 @@ To read a single bio from the database, you hit this endpoint [endpoint](endpoin
 
 To create a bio you are required to submit the following hitting this endpoint [endpoint](endpoint.com)
 
-`name` which is required and must be unique
-`email` which is required and must be unique
-`country` not required
+`name` which is required and must be unique.
+
+`email` which is required and must be unique.
+
+`country` not required.
 
 ### PATCH / UPDATE
 
